@@ -1,5 +1,5 @@
 package SocratesPizza.Project;
 
 public class UserInfo {
-    //Hello Horald, How are you?
+    //Hello Horald, happy birthday in one weeks!
 }
